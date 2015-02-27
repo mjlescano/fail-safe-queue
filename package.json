@@ -1,0 +1,27 @@
+{
+  "name": "fail-safe-queue",
+  "version": "0.1.0",
+  "description": "Node.js callbacks queue with rollback capabilities on fail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "queue",
+    "serial",
+    "parallel",
+    "fail-safe",
+    "fail",
+    "safe"
+  ],
+  "author": "mjlescano",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjlescano/fail-safe-queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjlescano/fail-safe-queue/issues"
+  }
+}
