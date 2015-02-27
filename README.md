@@ -1,3 +1,7 @@
+# Disclaimer
+
+**Don't use this LIB! [This](https://github.com/mjlescano/batch) one does the same with a much better interface.**
+
 # Fail Safe Queue
 
 It's a very simple Queue of functions. But also let's you define, for each one, a
