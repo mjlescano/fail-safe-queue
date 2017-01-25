@@ -1,5 +1,7 @@
 # Disclaimer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mjlescano/fail-safe-queue.svg)](https://greenkeeper.io/)
+
 **Don't use this LIB! [This](https://github.com/mjlescano/batch) one does the same with a much better interface.**
 
 # Fail Safe Queue
